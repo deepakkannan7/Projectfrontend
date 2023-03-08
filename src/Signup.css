@@ -1,0 +1,90 @@
+.hsignup
+{
+        font-size: 50px;
+        font-weight: bold;
+        margin-top: -50px;
+        margin-left: 100px;
+        text-shadow: 2px 2px red;
+        color:aqua;
+        text-decoration:underline;
+}
+.suptotal
+{
+    height:400px;
+    width:700px;
+    border:3px solid black;
+    background-image:linear-gradient(to bottom right,rgba(0, 13, 255, 0.378),rgba(166, 189, 18, 0.384),rgba(200, 26, 55, 0.378));
+    margin-left: 400px;
+    margin-top: 70px;
+}
+.bdys
+{
+    background-image:url("Batimg.jpg");
+    background-size: cover;
+    height:678px;
+    margin-top: -30px;
+    width:100%;
+}
+.supback
+{
+    height:70px;
+    width:70px;
+    border:1 px solid black;
+    background-image:url("https://play-lh.googleusercontent.com/RtPibaO3pLWP19YOoIZdsfMC8Ztl27BIFy4-bhAFxYo2rwglC1uK3dVO6EZp_gXepHs");
+    background-size: cover;
+    margin-top: 30px;
+}
+.supuser
+{
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:rgb(245, 80, 9);
+}
+.supemail
+{
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:rgb(245, 80, 9);
+}
+.suppassword
+{
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:rgb(245, 80, 9);
+}
+.supinputpass
+{
+    height:50px;
+    width:260px;
+    border-radius: 20px;
+    margin-left: 110px;
+}
+.supinputname
+{
+    height:50px;
+    width:260px;
+    border-radius: 20px;
+    margin-left: 110px;
+}
+.supinputmail
+{
+    height:50px;
+    width:260px;
+    border-radius: 20px;
+    margin-left: 110px;
+}
+.supsignup
+{
+    height:40px;
+    width:80px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -20px;
+    border:1px solid black;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color:orangered;
+}

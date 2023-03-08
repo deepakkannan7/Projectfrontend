@@ -1,0 +1,93 @@
+.Loghead
+{
+    font-size: 50px;
+    text-shadow: 2px 2px red;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 100px;
+    color:aqua;
+    text-decoration: underline;
+    
+}
+.logtot
+{
+   height:500px;
+   width:700px;
+   border: 3px solid black;
+   background-image:linear-gradient(to bottom right,rgba(0, 13, 255, 0.378),rgba(166, 189, 18, 0.384),rgba(200, 26, 55, 0.378));
+   margin-left: 400px;
+   margin-top: 50px;
+}
+.Logname
+{
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:rgb(245, 80, 9);
+}
+.Loginputuser
+{
+    height:50px;
+    width:260px;
+    border-radius: 20px;
+    
+}
+.bdyl{
+    background-image:url("Batimg.jpg");
+    background-size: cover;
+    height:678px;
+    margin-top: -70px;
+    width:100%;
+}
+.Logpass
+{
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+    color:rgb(245, 80, 9);
+}
+.Loginputpass
+{
+    height:50px;
+    width:260px;
+    border-radius: 20px;
+}
+.Logsubmit
+{
+    margin-top: 30px;
+    height: 40px;
+    width:80px;
+    text-align: center;
+    background-color: orangered;
+}
+.Logsignin
+{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -20px;
+}
+.Donacc
+{
+    color:rgb(25, 200, 45)
+}
+.Logsignup
+{
+    height:40px;
+    width:80px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -20px;
+    border:1px solid black;
+    margin-left: 310px;
+    margin-top: 5px;
+    background-color:orangered;
+}
+.Logimg
+{
+    height:70px;
+    width:100px;
+    margin-left: 300px;
+    margin-top: 20px;
+    background-image: url("https://st4.depositphotos.com/6489488/21520/v/600/depositphotos_215205070-stock-illustration-bat-bats-star-cricket-icon.jpg");
+    background-size: cover;
+}

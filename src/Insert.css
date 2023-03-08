@@ -1,0 +1,132 @@
+.Ainsert1
+{
+    height:90px;
+    width:700px;
+    border:1px solid black;
+    background-color: rgba(242, 7, 62, 0.477);
+    margin-left: 400px;
+    color:rgb(27, 10, 173);
+    font-weight: bold;
+    margin-top: 20px;
+}
+.backins
+{
+    height:70px;
+    width:70px;
+    border:3 px solid black;
+    background-image:url("https://play-lh.googleusercontent.com/RtPibaO3pLWP19YOoIZdsfMC8Ztl27BIFy4-bhAFxYo2rwglC1uK3dVO6EZp_gXepHs");
+    background-size: cover;
+    margin-top: 40px;
+}
+.insinputid
+{
+    margin-left: 25px;
+    height:30px;
+}
+.insinputname
+{
+    height:30px;
+}
+.insinputprice
+{
+    height: 30px;
+    margin-left:5px;
+}
+.insinputcountry
+{
+    height:30px;
+    margin-left:-7px;
+}
+.hinsert
+{
+    margin-top: -80px;
+    height:50px;
+    text-shadow: 2px 2px red;
+    width:250px;
+    text-align: center;
+    font-size: 30px;
+    /* border:1px solid black; */
+    /* background-color: rgba(0, 255, 255, 0.341); */
+    color:rgb(13, 205, 235);
+    font-weight:bold;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    margin-left: 600px;
+    padding-bottom: 30px;
+}
+.bdyi{
+    background-image:url("Batimg.jpg");
+    background-size: cover;
+    height:679px;
+    margin-top: -42px;
+    width:100%;
+}
+.insid{
+    height:430px;
+    width:500px;
+    background-image: linear-gradient(to bottom right,rgba(229, 255, 0, 0.415),rgba(30, 145, 198, 0.448),rgba(164, 38, 195, 0.448));
+    border:3px solid black;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.Ainsid{
+    margin-left: -370px;
+    font-size: 30px;
+    margin-top: 10px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.Ainsname
+{
+    margin-left: -330px;
+    font-size: 30px;
+    margin-top: 20px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.Ainsprice
+{
+    margin-left: -340px;
+    font-size: 30px;
+    margin-top: 20px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.Ainscountry
+{
+    margin-left: -310px;
+    font-size: 30px;
+    margin-top: 20px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.insinputid
+{
+    height:30px;
+    margin-left: -130px;
+}
+.insinputname
+{
+    height:30px;
+    margin-left: -130px;
+}
+.insinputprice
+{
+    height:30px;
+    margin-left: -130px;
+}
+.insinputcountry
+{
+    height:30px;
+    margin-left: -130px;
+}
+.Ainssubmit
+{
+    margin-top: 40px;
+    background-color:rgb(0, 255, 76);
+    color:black;
+    height:30px;
+    width:70px;
+}
+

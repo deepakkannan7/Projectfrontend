@@ -1,0 +1,121 @@
+.Aget1
+{
+    height:40px;
+    width:700px;
+    border:1px solid black;
+    background-color: rgba(242, 7, 62, 0.471);
+    margin-left: 400px;
+    color:rgb(27, 10, 173);
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.tableali
+{
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+.getinputid
+{
+    height:30px;
+    margin-left: -200px;
+}
+.getinputname
+{
+    height:30px;
+    margin-left: 60px;
+}
+.getinputprice
+{
+    height:30px; 
+    margin-left: 80px;
+}
+.getinputcountry
+{
+    height:30px; 
+    margin-left: 55px;
+}
+.hget
+{
+    margin-top: -100px;
+    height:50px;
+    text-shadow: 2px 2px red;
+    width:250px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    /* border:1px solid black; */
+    /* background-color: rgba(0, 255, 255, 0.421); */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(13, 205, 235);
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    margin-left: 600px;
+    padding-bottom: 30px;
+}
+.backget
+{
+    height:70px;
+    width:70px;
+    border:1 px solid black;
+    background-image:url("https://play-lh.googleusercontent.com/RtPibaO3pLWP19YOoIZdsfMC8Ztl27BIFy4-bhAFxYo2rwglC1uK3dVO6EZp_gXepHs");
+    background-size: cover;
+    margin-top: 40px;
+}
+.getid{
+    height:400px;
+    width:500px;
+    background-image: linear-gradient(to bottom right,rgba(229, 255, 0, 0.415),rgba(30, 145, 198, 0.448),rgba(164, 38, 195, 0.448));
+    border:3px solid black;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.Agetid{
+    margin-left: -300px;
+    font-size: 30px;
+    margin-top: 10px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.Agetname
+{
+    margin-left: -270px;
+    font-size: 30px;
+    margin-top: 10px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.Agetprice
+{
+    margin-left: -290px;
+    font-size: 30px;
+    margin-top: 10px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.Agetcountry
+{
+    margin-left: -260px;
+    font-size: 30px;
+    margin-top: 10px;
+    color:rgb(228, 16, 41);
+    font-weight: bold;
+}
+.Agetsubmit
+{
+    margin-top: 20px;
+    background-color:rgb(0, 255, 76);
+    color:black;
+    height:40px;
+    width:80px;
+}
+.gcomp
+{
+    margin-left: -300px;
+    margin-top: 40px;
+    color:aqua;
+    font-weight: bold;
+}
+
